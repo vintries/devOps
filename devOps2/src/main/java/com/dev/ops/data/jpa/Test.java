@@ -6,7 +6,7 @@ public class Test {
 
 		System.out.println("can it create conflict ?, check ,,,,");
 		System.out.println("I am local file");
-
+		System.out.println("Create conflict now .....I am remote file");
 	}
 
 }
