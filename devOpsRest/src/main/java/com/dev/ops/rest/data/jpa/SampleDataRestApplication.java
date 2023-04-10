@@ -30,7 +30,7 @@ import org.springframework.data.rest.webmvc.config.RepositoryRestMvcConfiguratio
 public class SampleDataRestApplication {
 
 	public static void main(String[] args) throws Exception {
-		System.out.println("----------------------Starting DevOpsRest Application ------------------------");
+		System.out.println("----------------------Starting DevOpsRest Application --------Srinivas add changes----------------");
 		SpringApplication.run(SampleDataRestApplication.class, args);
 	}
 }
